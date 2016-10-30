@@ -1,0 +1,6 @@
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+c:\users\chath_000\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
